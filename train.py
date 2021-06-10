@@ -1,13 +1,7 @@
 """
 
 class Star_Sentiment_Model():
-     
-
-
-
-
-
-   
+  
     #Convert to the required format of the GPT2 model
     class DataConverter():
       def __init__(self,dataset, train, use_tokenizer):
